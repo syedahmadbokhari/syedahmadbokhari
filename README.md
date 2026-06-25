@@ -1,4 +1,4 @@
-# Ahmad Bokhari — AI & Data Professional
+# Syed Muhammad Ahmad Bokhari — AI & Data Professional
 
 **First Class Honours** · BSc Applied Artificial Intelligence (University of Bradford, 2025)  
 📍 Bradford, UK · UK Resident (Post-Study Work Visa) · Open to relocate
