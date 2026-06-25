@@ -1,109 +1,122 @@
-<h1 align="center">Syed Muhammad Ahmad Bokhari</h1>
-<h3 align="center">AI and Data Professional &nbsp;·&nbsp; Bradford, UK</h3>
+# Ahmad Bokhari — AI & Data Professional
 
-<p align="center">
-  <a href="mailto:ahmadbokhari323@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmadbokhari323%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/syedahmadbokhari">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/syedahmadbokhari">
-    <img src="https://img.shields.io/badge/GitHub-syedahmadbokhari-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+**First Class Honours** · BSc Applied Artificial Intelligence (University of Bradford, 2025)  
+📍 Bradford, UK · UK Resident (Post-Study Work Visa) · Open to relocate
 
 ---
 
-I build **production data pipelines**, **REST APIs**, and **AI-powered analytics systems** using Python, FastAPI, dbt, and Airflow. My projects go from raw open-data ingestion through cloud storage, SQL transformation, and deployed APIs — with LLM integration for grounded report generation and semantic search.
+## 👋 About Me
 
-Currently open to **Data Engineering**, **Backend Engineering**, and **AI Engineering** roles in the UK.
+Recent AI/Applied AI graduate specialising in **Data Engineering**, **ML Systems**, and **Environmental AI**.
 
----
+I build production-grade data pipelines, computer vision systems, and AI-powered analytics tools. My final year project was deployed with the University of Bradford as a live CCTV monitoring system for real-time illegal dumping detection.
 
-## Featured Projects
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **UK Crime Analysis Platform** | End-to-end pipeline ingesting 21k+ monthly UK police records · dbt models · Airflow DAG · FastAPI with JWT / rate-limiting / RAG · React dashboard | Python · dbt · Airflow · FastAPI · PostgreSQL · Redis · React · Docker · Gemini AI | [Repo](https://github.com/syedahmadbokhari/UK-Crime-Data-Pipeline) · [API](https://uk-crime-data-pipeline-production.up.railway.app/docs) · [Dashboard](https://uk-crime-data-pipeline-mqev8qeujqyu2o5wtagkc4.streamlit.app/) |
-| **Retail Data Platform** | Cloud-native retail analytics pipeline with dimensional modelling and BI reporting | Python · dbt · DuckDB · AWS S3 · Streamlit | [Repo](https://github.com/syedahmadbokhari/Retail-Data-Platform) |
-| **Breast Cancer Prediction** | ML classification system with feature engineering, cross-validation, and model comparison (SVM / RF / LR) | Python · scikit-learn · Pandas · Streamlit | [Repo](https://github.com/syedahmadbokhari/breast-cancer-prediction) |
-| **SQL Analytics Project** | Advanced SQL reporting: window functions, CTEs, cohort analysis across complex schemas | SQL · PostgreSQL · dbt | [Repo](https://github.com/syedahmadbokhari/sql-analytics) |
-| **RL Agent** | Reinforcement learning agent trained with policy gradient methods on OpenAI Gym | Python · PyTorch · OpenAI Gym | [Repo](https://github.com/syedahmadbokhari/rl-agent) |
+Currently seeking **Data Analyst**, **Data Engineer**, or **ML Engineering** roles in the UK (Bradford area, willing to relocate).
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Data Engineering
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### AI / ML
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-### Testing
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![moto](https://img.shields.io/badge/moto_(mock_AWS)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+**Languages:** Python, SQL (Advanced), TypeScript  
+**Data Engineering:** Apache Airflow, dbt, DuckDB, PostgreSQL, AWS S3  
+**ML/Analytics:** XGBoost, scikit-learn, TensorFlow, PyTorch, Pandas, SHAP  
+**Computer Vision:** YOLOv8, MobileNetV3, ByteTrack, OpenCV  
+**Backend & Deployment:** FastAPI, Flask, SQLAlchemy, Redis, Streamlit, Docker, GitHub Actions  
+**Databases:** PostgreSQL, DuckDB, SQLite, pgvector  
+**Certifications:** dbt Associate, dbt Core
 
 ---
 
-## Engineering Highlights
+## ⭐ Flagship Project
 
-- **Production REST API** — JWT auth, async SQLAlchemy, cursor pagination, rate limiting, Redis caching, multi-stage Docker, deployed on Railway
-- **Orchestrated ETL pipeline** — 8-task Airflow DAG with watermark-based incremental loading and validation gates
-- **LLM integration** — Gemini-grounded report generation + RAG pipeline with pgvector semantic search
-- **dbt data models** — staging → mart layer with schema tests, column-level lineage, YoY metrics
-- **CI/CD** — GitHub Actions running pytest + dbt compile on every push
-- **Geospatial analytics** — LSOA-level crime hotspot mapping via Folium
-- **Mocked test suite** — 20+ tests with moto (fake S3) and in-memory DuckDB, no real cloud needed
+### [AI for Environmental Monitoring & Urban Planning](https://github.com/syedahmadbokhari/AI-for-Environmental-Monitoring-and-Urban-Planning)
+
+> **BSc Applied AI Final Year Project — Deployed with University of Bradford**
+
+A real-time AI system that transforms passive CCTV infrastructure into an intelligent environmental monitoring tool. It automatically detects illegal littering and dumping events, tracks objects across frames, and alerts authorities — all without facial recognition (GDPR compliant, ALTAI ethical AI framework).
+
+#### 🔧 System Pipeline
+```
+CCTV Feed → Motion Detection → ByteTrack Tracking → MobileNetV3 Classifier → Alert → Dashboard
+```
+
+#### ✨ Key Features
+- 🎯 **MobileNetV3** waste classifier (PyTorch) — lightweight, optimised for real-time edge inference on CCTV hardware
+- 🔍 **ByteTrack** multi-object tracking with Kalman filtering for persistent object IDs across frames
+- 🚨 **Stationary object logic** — flags objects that remain in place beyond a time threshold as dumping events
+- 📡 **Flask REST API** with MJPEG video streaming and live Server-Sent Events (SSE) for real-time alerts
+- 🗺️ **Streamlit dashboard** with GIS map visualisation, runtime event logging, and accountability tracking
+- ✅ **GDPR compliant** — no facial recognition, full data minimisation, transparent audit trail
+- 🤝 **ALTAI ethical AI framework** applied throughout design and evaluation
+
+#### 📁 Project Structure
+```
+core/         ← Detection pipeline & classifier modules
+dashboard/    ← Flask backend + Streamlit frontend
+models/       ← Trained MobileNetV3 checkpoints
+training/     ← Model training notebooks
+data/         ← Raw & processed datasets
+docs/         ← Design & evaluation reports
+archive/      ← Historical prototypes (v0–v7)
+```
+
+#### 🛠️ Full Tech Stack
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Computer Vision | OpenCV, YOLOv8 |
+| Deep Learning | PyTorch, MobileNetV3, torchvision |
+| Object Tracking | ByteTrack (Kalman filtering) |
+| Backend | Flask (REST API, MJPEG, SSE) |
+| Dashboard | Streamlit + GIS visualisation |
+| Deployment | University of Bradford (live CCTV) |
 
 ---
 
-## GitHub Stats
+## 📊 Other Notable Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedahmadbokhari&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedahmadbokhari&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedahmadbokhari&theme=github-dark-blue&hide_border=true"/>
-</p>
+### [UK Crime Data Pipeline](https://github.com/syedahmadbokhari/UK-Crime-Data-Pipeline)
+End-to-end data platform ingesting 21k+ monthly UK police records  
+S3 → dbt → Airflow → FastAPI → Streamlit · JWT auth · Redis caching · RAG with pgvector · 20+ tests · CI/CD
+
+### [Breast Cancer Survival Model](https://github.com/syedahmadbokhari/breast-cancer-analysis)
+Production ML pipeline with SHAP explainability, model calibration, and survival analysis  
+scikit-learn · XGBoost · Pandas · Streamlit
+
+### [Retail Data Platform](https://github.com/syedahmadbokhari/sql-data-analysis)
+Cloud-native analytics with dimensional modelling, recommendation engine, and 51 unit tests  
+dbt · DuckDB · AWS S3 · Streamlit · pytest · moto
+
+### [CLIP: Zero-Shot vs Linear Probe](https://github.com/syedahmadbokhari/clip-zero-shot-vs-linear-prob)
+Benchmarking zero-shot CLIP against linear probe fine-tuning across vision datasets  
+PyTorch · OpenAI CLIP · scikit-learn
+
+### [Reinforcement Learning Game Agent](https://github.com/syedahmadbokhari/Reinforcement-Learning-Game-Agent)
+Policy gradient and deep Q-network implementations  
+PyTorch · OpenAI Gym
 
 ---
 
-## Currently
+## 🏆 Engineering Highlights
 
-- Building production-grade data systems in Python / dbt / Airflow
-- Deepening AWS (Glue, Athena, Redshift) and Spark knowledge
-- Open to **Data Engineering**, **Backend**, and **AI Engineering** roles in the UK
-- 📧 ahmadbokhari323@gmail.com
+- Real-time computer vision pipeline deployed on live University of Bradford CCTV infrastructure
+- 8-task Airflow DAG with incremental loading, data validation, and alerting
+- Production REST API: async SQLAlchemy, cursor pagination, rate limiting, Redis caching
+- LLM-grounded report generation with semantic search via pgvector (Gemini AI)
+- dbt marts with schema tests, lineage tracking, and documentation
+- Multi-stage Docker builds with CI/CD via GitHub Actions
+- Geospatial analytics and crime hotspot mapping
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedahmadbokhari&show_icons=true&theme=dark)
+
+---
+
+## 📧 Let's Connect
+
+- **Email:** ahmadbokhari323@gmail.com
+- **LinkedIn:** [linkedin.com/in/syedahmadbokhari](https://www.linkedin.com/in/syedahmadbokhari)
+- **Location:** Bradford, UK · UK Resident (Post-Study Work Visa)
