@@ -1,5 +1,5 @@
-<h1 align="center">Syed Ahmad Bokhari</h1>
-<h3 align="center">Data & Backend Engineer &nbsp;·&nbsp; Bradford, UK</h3>
+<h1 align="center">Syed Muhammad Ahmad Bokhari</h1>
+<h3 align="center">AI and Data Professional &nbsp;·&nbsp; Bradford, UK</h3>
 
 <p align="center">
   <a href="mailto:ahmadbokhari323@gmail.com">
