@@ -107,11 +107,6 @@ PyTorch · OpenAI Gym
 - Multi-stage Docker builds with CI/CD via GitHub Actions
 - Geospatial analytics and crime hotspot mapping
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedahmadbokhari&show_icons=true&theme=dark)
 
 ---
 
